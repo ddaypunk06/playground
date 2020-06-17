@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is currently deployed to [Heroku](https://gentle-beyond-15034.herokuapp.com/).
+
 ## Available Scripts
 
 In the project directory, you can run:
