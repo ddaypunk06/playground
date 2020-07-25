@@ -8,7 +8,7 @@ import MenuIcon from '@material-ui/icons/Menu';
 class PGAppBar extends Component {
     
     render() {
-        return <AppBar position="static" variant="dense" data-test-header={this.props.title} margin={2}>
+        return <AppBar position="static" variant="dense" data-test-header={this.props.title}>
         <Toolbar>
           <IconButton edge="start" color="inherit" aria-label="menu">
             <MenuIcon />
